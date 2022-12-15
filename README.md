@@ -3,3 +3,4 @@
 https://discord.com/api/oauth2/authorize?client_id=833076839244365835&permissions=8&scope=bot%20applications.commands)
 ___
 Это бот был создан для развелечений, игр.
+Вы можете помочь проекту, [пригласив](https://discord.com/oauth2/authorize?client_id=833076839244365835&permissions=8&scope=bot%20applications.commands) его на ваш сервер.
